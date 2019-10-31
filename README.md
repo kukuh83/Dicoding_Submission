@@ -1,5 +1,5 @@
 # Dicoding_Submission
 
 <br> Nama : Kukuh Aji Santoso
-Nim  : 17090059
-Kelas : 5A
+<br> Nim  : 17090059
+<br> Kelas : 5A
